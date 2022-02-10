@@ -8,6 +8,6 @@ Ever since I was a kid helping out on my family's farm in Minnesota, I have been
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elizabeth-oda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elizabeth-feldeverd/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elizabethoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elizabeth-feldeverd/" height="30" width="40" /></a>
 <a href="https://troopl.com/elizabeth" target="blank"><img align="center" src="https://troopl.com/packs/media/svg/troopl_logo-8ad5996b.svg" alt="https://troopl.com/elizabeth" height="30" width="40" /></a>
 </p>
