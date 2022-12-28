@@ -1,6 +1,5 @@
 <h1 align="leftr">Hi 👋, I'm Elizabeth</h1>
-<h3 align="left">Tokyo-based AI engineer and plant biology nerd</h3>
-<h4 align="left">I am an AI engineer with <a href="https://www.arithmer.co.jp/">Arithmer</a>, where I develop ML/DL-based software in the domains of disaster tech and agriculture. I'm always learning something new- tech or otherwise- so let's chat about AI, DevOps, sustainable agriculture, or plant molecular biology!</h4>
+<h3 align="left">AI researcher and plant biology nerd</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
