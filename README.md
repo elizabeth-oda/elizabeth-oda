@@ -1,8 +1,10 @@
 <h1 align="leftr">Hi 👋, I'm Elizabeth</h1>
-<h3 align="left">AI researcher and plant biology nerd</h3>
+<h4 align="left">AI researcher and plant biology nerd</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+ 
+<a href="https://www.rust-lang.org/learn" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91709040/209763278-54d66b41-3fa2-4492-8cc8-ef687a97c47d.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="http://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91709040/194880139-b5063ea8-e241-48cf-bb70-178247de0003.png" alt="open3d" width="40" height="40"/> </a>
