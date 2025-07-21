@@ -2,7 +2,7 @@
 <h3 align="left">Technical Project Manager | AI Engineer | Plant Molecular Biologist</h3>
 
 <p align="left">
-I'm a Technical Project Manager and AI researcher with a background in AL/ML and molecular biology. I specialize in managing complex engineering projects with a strong focus on team alignment, delivery, and technical depth.
+I'm a Technical Project Manager awith a background in AL/ML and molecular biology. I specialize in managing complex engineering projects with a strong focus on team alignment, delivery, and technical depth.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
