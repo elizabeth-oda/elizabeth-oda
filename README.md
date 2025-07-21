@@ -9,8 +9,8 @@ I'm a Technical Project Manager awith a background in AL/ML and molecular biolog
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/91709040/209763278-54d66b41-3fa2-4492-8cc8-ef687a97c47d.png" alt="Rust" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/google/jax/main/docs/_static/jax_logo_250px.png" alt="JAX" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://jax.readthedocs.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jax/jax-original.svg" alt="JAX" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://user-images.githubusercontent.com/91709040/194880522-f40ae1aa-ae64-4a90-95af-2b01d3ca7c53.svg" alt="FastAPI" width="40" height="40"/></a>
