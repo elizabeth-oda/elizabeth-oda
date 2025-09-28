@@ -1,30 +1,51 @@
 <h1 align="left">Hi 👋, I'm Elizabeth</h1>
-<h3 align="left">Technical Project Manager | AI Engineer | Plant Molecular Biologist</h3>
+<h3 align="left">Bridging product, research, and community</h3>
 
 <p align="left">
-I'm a Technical Project Manager with a background in AL/ML and molecular biology.
+I bring a rigorous experimental and systems mindset from molecular biology and agricultural science to build first-of-their-kind AI products and programs.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Quick highlights -->
 <p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/91709040/209763278-54d66b41-3fa2-4492-8cc8-ef687a97c47d.png" alt="Rust" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <img src="https://raw.githubusercontent.com/google/jax/main/docs/_static/jax_logo_250px.png" alt="JAX" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://user-images.githubusercontent.com/91709040/194880522-f40ae1aa-ae64-4a90-95af-2b01d3ca7c53.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://user-images.githubusercontent.com/91709040/194877455-801bd4a1-73b2-4a08-877a-a8d892fb3794.png" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://user-images.githubusercontent.com/91709040/194877626-0f923ed7-66cd-4c2c-8b2a-9b72e831516d.png" alt="AWS" width="60" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
+• Technical PM at <b>Braid Technologies</b> building principled AI for engineering design<br/>
+• Co-founder of <b>Women in Science Japan (WISJ)</b> — ML Summer School, mentorship, and events for women in STEM<br/>
+• Hands-on with Python and occasionally Rust for ML/DL, optimization, and GenAI prototyping
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
+<!-- Primary CTAs -->
 <p align="left">
-<a href="https://linkedin.com/in/elizabethoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elizabeth-oda/" height="30" width="40" /></a>
-<a href="https://www.elizabethoda.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91709040/194879404-a849afa4-0ee1-43a3-8c96-1964805b128f.PNG" alt="https://www.womeninsciencejapan.com/" height="30" width="30" /></a>
-<a href="https://medium.com/@elizabeth-oda" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91709040/194874897-9c0ed195-3920-4c45-863e-dcecf5b77be4.png" alt="https://medium.com/@elizabeth-oda" height="30" width="30" /></a>
-<a href="https://www.womeninsciencejapan.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91709040/194875590-2f498f6d-38d4-4c62-8c09-89e2f501be9c.png" alt="https://www.womeninsciencejapan.com/" height="30" width="30" /></a>
-</p
+  <a href="https://www.elizabethoda.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-elizabethoda.com-1f2937?labelColor=111827">
+  </a>
+  <a href="mailto:hello@elizabethoda.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Contact-hello@elizabethoda.com-1f2937?labelColor=111827">
+  </a>
+  <a href="https://www.linkedin.com/in/elizabethoda/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Elizabeth%20Oda-1f2937?logo=linkedin&labelColor=111827">
+  </a>
+  <a href="https://www.womeninsciencejapan.com/" target="_blank">
+    <img alt="WISJ" src="https://img.shields.io/badge/WISJ-Community-1f2937?labelColor=111827">
+  </a>
+</p>
+
+---
+
+### Skills (selected)
+<p align="left">
+  <!-- Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=111827">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&labelColor=111827">
+  <!-- ML/AI -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&labelColor=111827">
+  <img alt="JAX" src="https://img.shields.io/badge/JAX-007ACC?logo=google&logoColor=white&labelColor=111827">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&labelColor=111827">
+  <!-- Web / APIs -->
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&labelColor=111827">
+  <!-- Infra -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=111827">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&labelColor=111827">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&labelColor=111827">
+</p>
+
+---
+
